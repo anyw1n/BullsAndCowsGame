@@ -3,7 +3,7 @@ description: Bulls and Cows game.
 
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 0.0.1+1
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
@@ -22,3 +22,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/words/
